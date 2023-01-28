@@ -381,3 +381,9 @@ background-color: #000;
       padding: 0.5rem; }
       #main-footer .footer-content .social .fab:hover {
         background: #ffbc00; }
+.text-white {
+  color: white !important;
+}
+
+
+
