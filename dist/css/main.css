@@ -215,7 +215,9 @@ img {
 
 #header .bg-main {
   background: #ffbc00;
-  color: #fff; }
+  color: #fff; 
+}
+  
 
 #home-a .specials {
   margin-top: 3rem;
@@ -383,6 +385,15 @@ background-color: #000;
         background: #ffbc00; }
 .text-white {
   color: white !important;
+}
+.bg-main {
+  background: #ffbc00;
+  color: #fff;
+  padding-left: 1.5rem !important;
+}
+
+.text-cap{
+  text-transform: capitalize;
 }
 
 
